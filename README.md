@@ -15,4 +15,4 @@ Este dashboard financeiro permite o acompanhamento de receitas, despesas e marge
 Abra o arquivo `.pbix` .
 
 ## 🖼 Captura de Tela
-![Dashboard Financeiro]()
+![Dashboard Financeiro](Captura de tela 2025-07-03 130937.png)
